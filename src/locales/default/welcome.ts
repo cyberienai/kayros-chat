@@ -7,18 +7,18 @@ export default {
   guide: {
     agents: {
       replaceBtn: 'Replace',
-      title: 'Featured Assistant',
+      title: 'Featured Assistants',
     },
     defaultMessage:
       'I am your personal intelligent assistant, LobeChat. How can I assist you today?\\nIf you need a more professional or customized assistant, click `+` to create a custom assistant.',
     qa: {
-      q01: 'What is Unitalk',
-      q02: 'What is LobeChat?',
-      q03: 'Does LobeChat have community support?',
-      q04: 'What functions does LobeChat support?',
-      q05: 'How do I deploy and use LobeChat?',
-      q06: 'What is the pricing for LobeChat?',
-      q07: 'Is LobeChat free?',
+      q01: 'What is Unitalk?',
+      q02: 'What is UniChat?',
+      q03: 'Does UniChat have community support?',
+      q04: 'What functions does UniChat support?',
+      q05: 'How do I deploy and use UniChat?',
+      q06: 'What is the pricing for UniChat?',
+      q07: 'Is UniChat free?',
       q08: 'Is there a cloud service version?',
       q09: 'Does it support local language models?',
       q10: 'Does it support image recognition and generation?',
