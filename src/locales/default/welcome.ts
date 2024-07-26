@@ -43,9 +43,7 @@ export default {
   pickAgent: 'or choose from the following assistant templates',
   skip: 'Skip Creation',
   slogan: {
-    desc1: 'Unitalk Chat
-
-Supercharge your world with AI. Chat with any LLM. Create unlimited custom AI assistants. Trained on your data.',
+    desc1: 'Unitalk Chat. Supercharge your world with AI. Chat with any LLM. Create unlimited custom AI assistants. Trained on your data.',
     desc2: 'Create your first assistant, let’s get started~',
     title: 'Give yourself a smarter brain',
   },
