@@ -803,5 +803,11 @@ This project is [Apache 2.0](./LICENSE) licensed.
 [submit-plugin-link]: https://github.com/lobehub/lobe-chat-plugins
 [submit-plugin-shield]: https://img.shields.io/badge/🧩/🏪_submit_plugin-%E2%86%92-95f3d9?labelColor=black&style=for-the-badge
 [vercel-link]: https://chat-preview.lobehub.com
+
+🤖 Join Our Community
+Whether you're a developer, a researcher, or simply enthusiastic about OpenDevin, we'd love to have you in our community. Let's make software engineering better together!
+
+Slack workspace - Here we talk about research, architecture, and future development.
+Discord server - This is a community-run server for general discussion, questions, and feedback.
 [vercel-shield]: https://img.shields.io/badge/vercel-online-55b467?labelColor=black&logo=vercel&style=flat-square
 [vercel-shield-badge]: https://img.shields.io/badge/TRY%20LOBECHAT-ONLINE-55b467?labelColor=black&logo=vercel&style=for-the-badge
